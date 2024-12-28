@@ -25,6 +25,7 @@ options:
   -6, --ipv6     Find public IPv6 address
 
 getmyip gunville 2024 v1
+```
 
 #### Method of IP address detection:
 
